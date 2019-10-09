@@ -16,5 +16,8 @@ public class A {
 	
 	
 	
+	public void test3() {
+		System.out.println("leishuai...");
+	}
 	
 }
