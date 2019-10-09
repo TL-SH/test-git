@@ -10,5 +10,8 @@ public class A {
 		System.out.println("leishuai");
 	}
 	
+	public void test3() {
+		System.out.println("leishuai...");
+	}
 	
 }
