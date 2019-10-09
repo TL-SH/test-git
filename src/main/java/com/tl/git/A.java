@@ -10,5 +10,11 @@ public class A {
 		System.out.println("leishuai");
 	}
 	
+	public void test2() throws Exception {
+		System.out.println("leishuai");
+	}
+	
+	
+	
 	
 }
