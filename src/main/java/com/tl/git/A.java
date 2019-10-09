@@ -9,6 +9,9 @@ public class A {
 		
 	}
 	
+	public void testname() throws Exception {
+		System.out.println("leishuai");
+	}
 	
 	
 }
